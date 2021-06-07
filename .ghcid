@@ -1,0 +1,3 @@
+--command "stack repl --main-is monomer-sample:exe:app"
+--test ":main"
+--restart=package.yaml

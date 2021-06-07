@@ -1,0 +1,8 @@
+.stack-work/
+.vscode/
+*~
+*.aux
+*.hp
+*.prof
+*.ps
+*.ser

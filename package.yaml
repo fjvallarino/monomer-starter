@@ -1,0 +1,25 @@
+name:                monomer-starter
+version:             0.1.0.0
+#synopsis:
+#description:
+homepage:            https://github.com/githubuser/monomer-starter#readme
+license:             BSD3
+author:              Author name here
+maintainer:          example@example.com
+copyright:           2021 Author name here
+#category:
+extra-source-files:
+- README.md
+
+dependencies:
+  - base >= 4.7 && < 5
+  - data-default
+  - lens
+  - monomer
+  - text
+  - text-show
+
+executables:
+  app:
+    source-dirs:      src
+    main:             Main.hs
