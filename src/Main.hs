@@ -1,4 +1,5 @@
 {-# LANGUAGE OverloadedStrings #-}
+{-# LANGUAGE TemplateHaskell #-}
 
 module Main where
 
@@ -10,7 +11,16 @@ import TextShow
 
 import qualified Monomer.Lens as L
 
-import Types
+data AppModel = AppModel {
+  _clickCount :: Int
+} deriving (Eq, Show)
+
+data AppEvent
+  = AppInit
+  | AppIncrease
+  deriving (Eq, Show)
+
+makeLenses 'AppModel
 
 buildUI
   :: WidgetEnv AppModel AppEvent

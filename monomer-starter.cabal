@@ -19,7 +19,6 @@ extra-source-files:
 executable app
   main-is: Main.hs
   other-modules:
-      Types
       Paths_monomer_starter
   hs-source-dirs:
       src
