@@ -23,3 +23,6 @@ executables:
   app:
     source-dirs:      src
     main:             Main.hs
+    ghc-options:
+    - -fwarn-incomplete-patterns
+    - -threaded
