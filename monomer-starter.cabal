@@ -22,6 +22,8 @@ executable app
       Paths_monomer_starter
   hs-source-dirs:
       src
+  default-extensions:
+      OverloadedStrings
   ghc-options: -fwarn-incomplete-patterns -threaded
   build-depends:
       base >=4.7 && <5

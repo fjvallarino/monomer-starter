@@ -17,15 +17,15 @@ packages:
     commit: ba8733f58da63e0934b5d2853ed84b71e872e6f1
 - completed:
     name: monomer
-    version: 1.0.0.0
+    version: 1.0.0.1
     git: https://github.com/fjvallarino/monomer
     pantry-tree:
-      size: 16269
-      sha256: 13f125cab6d2601e3e464d65435eb072d1c75a20f8ae16b4d474cbfeb50c20ec
-    commit: 2b065038630a1e68bb9d229dccc7b083848260e1
+      size: 15888
+      sha256: 6e729e7c7929961e4a08bc406c760c54ec61a7e406e81c0e9db3cd44c9610145
+    commit: 523355c389621330d3f026384b9673548a3f5f8d
   original:
     git: https://github.com/fjvallarino/monomer
-    commit: 2b065038630a1e68bb9d229dccc7b083848260e1
+    commit: 523355c389621330d3f026384b9673548a3f5f8d
 snapshots:
 - completed:
     size: 565712
