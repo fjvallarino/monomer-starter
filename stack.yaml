@@ -40,10 +40,8 @@ packages:
 # - git: https://github.com/commercialhaskell/stack.git
 #   commit: e7b331f14bcffb8367cd58fbfc8b40ec7642100a
 extra-deps:
-- git: https://github.com/fjvallarino/nanovg-hs
-  commit: ba8733f58da63e0934b5d2853ed84b71e872e6f1
-- git: https://github.com/fjvallarino/monomer
-  commit: 3993c1ca418e285f6401bfc2b99b8ef22f254088
+- nanovg-0.8.0.0
+- monomer-1.0.0.2
 
 # Override default flag values for local packages and extra-deps
 # flags: {}
