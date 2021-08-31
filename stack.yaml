@@ -44,7 +44,9 @@ extra-deps:
 - monomer-1.0.0.3
 
 # Override default flag values for local packages and extra-deps
-# flags: {}
+flags:
+  nanovg:
+    stb_truetype: true
 
 # Extra package databases containing global packages
 # extra-package-dbs: []
