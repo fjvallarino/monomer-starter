@@ -12,12 +12,12 @@ packages:
   original:
     hackage: nanovg-0.8.0.0
 - completed:
-    hackage: monomer-1.0.0.3@sha256:94fb6e6b317adaeac4a02f9ee5fb9cb9f263afb00b1695664c3d4a905829b45d,14305
+    hackage: monomer-1.1.0.0@sha256:6a15a727ca394c60d92bb75e54af12b2818959b334e4b3bfab8b2f84472e9255,15414
     pantry-tree:
-      size: 13364
-      sha256: 3ef3f3f3c04a8f8555d6e98e8d71e2ad296c554fa9f6c85ce74f009309fe5dc3
+      size: 13579
+      sha256: 8a9bb7f15f1f6da6e28c9e83ec555bef99fdd0feaa2074902068f8d668e0a24c
   original:
-    hackage: monomer-1.0.0.3
+    hackage: monomer-1.1.0.0
 snapshots:
 - completed:
     size: 587113
