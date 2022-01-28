@@ -12,15 +12,15 @@ packages:
   original:
     hackage: nanovg-0.8.0.0
 - completed:
-    hackage: monomer-1.2.0.0@sha256:5a3c595834d8919d10ad0ac7614384dc6516eb9a40692554ad23e4aa5ed4ca40,15584
+    hackage: monomer-1.3.0.0@sha256:82bb1ab764d0ff621073ddcea4d9b4fe56410977c819ffcec4a00d823817e1cb,16184
     pantry-tree:
       size: 13936
-      sha256: 40e9ea15f9ce797b40e2c2c28d97f4a699e3e2d97c48efa4d3ebc91139f243dc
+      sha256: 6972485b1da425a7af7be4407217748fc83fbef272d9c7174ca65cd7faf201bb
   original:
-    hackage: monomer-1.2.0.0
+    hackage: monomer-1.3.0.0
 snapshots:
 - completed:
-    size: 587113
-    url: https://raw.githubusercontent.com/commercialhaskell/stackage-snapshots/master/lts/18/6.yaml
-    sha256: f74c482d7c93739ecf3abfbc0f2dea1c20a2dfb2462c689846ed55a9653b66f7
-  original: lts-18.6
+    size: 586292
+    url: https://raw.githubusercontent.com/commercialhaskell/stackage-snapshots/master/lts/18/17.yaml
+    sha256: e66e70a7f998036025e8f40abc89b8eeb79c88f57727020cba1b54f375aa7ca0
+  original: lts-18.17
