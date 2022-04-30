@@ -12,16 +12,12 @@ packages:
   original:
     hackage: nanovg-0.8.0.0
 - completed:
-    name: monomer
-    version: 1.3.0.0
-    git: https://github.com/fjvallarino/monomer
+    hackage: monomer-1.4.0.0@sha256:ba6cc25568adc75c2656405440b6ccdc420792a37b8804d51ec49fdd4d4c47f3,15067
     pantry-tree:
-      size: 17242
-      sha256: 701895cac5883f6901bda29932bce0dcf3e98e87fd36900e5dc59826f8dd6e04
-    commit: 5f0bed361f04135d45bf9a71259f74d7a7af69a8
+      size: 14019
+      sha256: efab57604b723038286f927d6a86864ddaa35f4bcb8fc2eec4f32adc6ef40d40
   original:
-    git: https://github.com/fjvallarino/monomer
-    commit: 5f0bed361f04135d45bf9a71259f74d7a7af69a8
+    hackage: monomer-1.4.0.0
 snapshots:
 - completed:
     size: 590102
