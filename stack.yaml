@@ -41,9 +41,9 @@ packages:
 #   commit: e7b331f14bcffb8367cd58fbfc8b40ec7642100a
 extra-deps:
 - nanovg-0.8.0.0
-- monomer-1.4.1.0
-#- git: https://github.com/fjvallarino/monomer
-#  commit: 5f0bed361f04135d45bf9a71259f74d7a7af69a8
+#- monomer-1.4.1.0
+- git: https://github.com/fjvallarino/monomer
+  commit: 51ce06f613eeb5a7e1172ae1a17cf099e053c9cb
 
 # Override default flag values for local packages and extra-deps
 flags:
